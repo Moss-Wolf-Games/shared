@@ -1,0 +1,19 @@
+{
+  "name": "com.mosswolfgames.shared",
+  "version": "1.0.1",
+  "displayName": "Moss Wolf Games - Shared Library",
+  "description": "Contains shared utilities and extension methods to use in Unity projects.",
+  "unity": "2022.3",
+  "unityRelease": "0b5",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Moss Wolf Games",
+    "email": "mosswolfgames@gmail.com",
+    "url": "http://mosswolfgames.com/"
+  },
+  "type": "library"
+}
